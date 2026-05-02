@@ -1,7 +1,13 @@
 # jxf323.github.io
+<!DOCTYPE html>
 <html>
-  <body>
-    <b>Jasper's site on github</b><br>
-    <p>I hope this site finds you well!</p>
-  </body>
+<body>
+
+<p>显示度量值：</p>
+<meter value="3" min="0" max="10">3/10</meter><br>
+<meter value="0.6">60%</meter>
+
+<p><b>注释：</b>Internet Explorer 不支持 meter 标签。</p>
+
+</body>
 </html>
