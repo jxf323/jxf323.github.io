@@ -1,5 +1,5 @@
 # jxf323.github.io
-<!DOCTYPE html>
+
 <html>
 <body>
 
