@@ -1,21 +1,18 @@
 <html>
-<body>
+<body background="BG.gif">
 
 <style>
 .center {
-    padding: 100px 0;
+    padding: 90px 0;
     border: 0px;
 }
 </style>
 
 
 
-<div class="center">
-	<center><img src="Happy-Birthday-GIFs-4.gif" width=300></center>
-</div>
-
-
-
+<center><img src="Portrait.jpg" height="260" ></center>
+<br>
+<center><img src="Intro.gif" width="400"></center>
 
 </body>
 </html>
